@@ -1,4 +1,5 @@
-## Hi there 👋
+## I'm Aidar and i codding on Python, and would like to code on Java and Kotlin
+
 
 <!--
 **AidarHaziahmetov/AidarHaziahmetov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
