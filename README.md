@@ -1,4 +1,4 @@
-## I'm Aidar and i codding on Python, and would like to code on Java and Kotlin
+## I'm Aidar and i codding on Python and Go
 
 
 <!--
